@@ -1,5 +1,6 @@
 # Queen
 
+demo : https://flamboyant-blackwell-2abc1b.netlify.app/#slide
 
 ## 프로젝트의 목적 및 용도
 
